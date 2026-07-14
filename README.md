@@ -1,17 +1,17 @@
-# Proyecto de Colaboración - ADSO
+# Proyecto de Colaboracion - ADSO
 
-Repositorio del taller práctico de Git y GitHub: Estrategias de Colaboración, Flujos de Trabajo y Resolución de Conflictos.
+Repositorio del taller practico de Git y GitHub: Estrategias de Colaboracion, Flujos de Trabajo y Resolucion de Conflictos.
 
 ## Integrantes
 
-- Álvaro David Suárez
-- Sebastián David Laverde
+- Alvaro David Suarez
+- Sebastian David Laverde
 - Juan Camilo Palacios
 
-## Programa de Formación
+## Programa de Formacion
 
-Análisis y Desarrollo de Software (ADSO) - SENA
+Analisis y Desarrollo de Software (ADSO) - SENA
 
-## Descripción
+## Descripcion
 
-Este proyecto simula un entorno de trabajo colaborativo en equipo utilizando Git y GitHub, abordando prácticas como ramificación (branching), Pull Requests, revisión de código y resolución de conflictos de fusión (merge conflicts).
+Este proyecto simula un entorno de trabajo colaborativo en equipo utilizando Git y GitHub, abordando practicas como ramificacion (branching), Pull Requests, revision de codigo y resolucion de conflictos de fusion (merge conflicts).
